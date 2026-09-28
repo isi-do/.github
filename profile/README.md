@@ -1,7 +1,7 @@
 # Implementación Soluciones Informáticas (ISI)
 
 <p align="left">
-  <img src="./assets/isi-banner.png" alt="ISI Banner"  width="1500" height="300">
+  <img src="../assets/isi-banner.png" alt="ISI Banner"  width="1500" height="300">
 </p>
 
 **Technology solutions for businesses and organizations.**
